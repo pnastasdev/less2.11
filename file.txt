@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 hello
 friend
 >>>>>>> Stashed changes
+=======
+hello
+>>>>>>> contacts
 
